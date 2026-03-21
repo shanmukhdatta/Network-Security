@@ -1,3 +1,6 @@
+## -e .# it refers to setup.py file to run setup.py also with this file
 python-dotenv
 pandas
 numpy
+pymango
+certifi
